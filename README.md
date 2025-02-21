@@ -3,4 +3,4 @@ This is my first git repository
 <br/>
 Author- Bhavana
 <br/>
-Git repository
+Git repository(course)
